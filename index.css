@@ -1,6 +1,22 @@
 body {
 	color: #444;
 }
+
+#colom1{
+	background-color:#2980b9;
+	color: #fff;
+	}
+	
+#colom2{
+	background-color:#a0214c;
+	color: #fff;
+	}
+	
+#colom3{
+	background-color:#95a5a6;
+	color: #fff;
+	}	
+
 table {
 	background: #f5f5f5;
 	border-collapse: separate;
@@ -96,17 +112,3 @@ tbody:hover tr:hover td {
 	text-shadow: 0 1px 0 #fff;
 }
 
-#colom1{
-background-color:#2980b9;
-color: #fff;
-}
-
-#colom2{
-background-color:#a0214c;
-color: #fff;
-}
-
-#colom3{
-background-color:#95a5a6;
-color: #fff;
-}
